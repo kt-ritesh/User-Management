@@ -1,8 +1,5 @@
 # User-Management
 <center>
-<h1> USER MANAGEMENT SYSTEM </h1>
-</center>
-<center>
 <a href="Java url">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
 </a>
